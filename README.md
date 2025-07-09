@@ -31,9 +31,6 @@ yarn run test
 
 ## Author
 
-👤 **Natain Bogdan**
-
-
 * Github: [@Natain](https://github.com/Natain)
 
 ## Show your support
